@@ -1,5 +1,14 @@
 {
+  "name": "aplikasi-cuaca-desktop-js",
+  "version": "1.0.0",
+  "main": "main.js",
+"scripts": {
+  "start": "electron ."
+},
+
   "dependencies": {
+    "electron": "^35.1.4",
     "node-fetch": "^3.3.2"
   }
+  
 }
